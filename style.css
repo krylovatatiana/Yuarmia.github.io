@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body{
+    font-family: "Bree Serif", serif;
+
+}
+.fer{
+    text-align: center;
+}
+
+.for{
+    text-align: center;
+}
+
+.far{
+    text-align: center;
+}
+
+.kap{
+    text-align: center;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+
+}
+
+.project{
+       display: flex;
+       justify-content: space-around;
+}
+.bl{
+    width: 20%;
+    text-align: center;
+}
